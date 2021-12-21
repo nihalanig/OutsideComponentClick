@@ -1,0 +1,2 @@
+# OutsideComponentClick
+Created with CodeSandbox
